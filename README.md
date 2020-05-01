@@ -23,4 +23,5 @@ Aula 4 - Estatísticas no ENEM 2018
 Aula 5 - Modelo de Regressão e Machine Learning  
 
  As aulas foram compostas por vídeos e com desafios, onde a galera compartilhava informações pelo Slack do [DataHackers](https://datahackers.com.br/) .(comunidade brasileira de Data Science)
+ [Manual de boas práticas](https://docs.google.com/document/d/1J2L_AJ8HQmdGc3CTATHABmnKXt8FT2WHJCO000_3E0E/edit#) para uso do slack da comunidade
 
